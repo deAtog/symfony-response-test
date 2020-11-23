@@ -1,3 +1,11 @@
 body {
-    background-color: lightgray;
+    background-color:#FFFFFF;
+}
+
+.success {
+    color:#00AA00;
+}
+
+.error {
+    color:#FF0000;
 }
